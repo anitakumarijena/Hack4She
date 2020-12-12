@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hack4She</string>
+    <string name="update_the_numbers">Update the numbers</string>
+    <string name="enter_2nd_emergency_contact_number">Enter 2nd emergency contact number</string>
+    <string name="press_to_activate_deactivate">Press to activate/deactivate</string>
+    <string name="enter_1st_emergency_contact_number">Enter 1st emergency contact number</string>
+</resources>
